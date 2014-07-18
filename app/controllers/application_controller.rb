@@ -3,5 +3,6 @@ class ApplicationController < ActionController::Base
   protected
   def sample_method
   puts "----------fsjafja"
+  puts "added on master branch"
   end
 end
